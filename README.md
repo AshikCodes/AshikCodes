@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![me]([https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif](https://github.com/AshikCodes/AshikCodes/blob/main/russell-westbrook.gif))
-
 ```javascript
 const ashik = {
   languages: ["Python", "JavaScript", "Java", "Swift", "C#"],
@@ -10,5 +8,5 @@ const ashik = {
   currently: "building something cool"
 };
 ```
-![me]([https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif](https://github.com/AshikCodes/AshikCodes/blob/main/russell-westbrook.gif))
 
+![russell-westbrook](https://github.com/user-attachments/assets/c9671d37-6b3b-4005-b0f6-65148e50e85c)
