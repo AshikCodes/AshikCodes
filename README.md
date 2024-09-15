@@ -8,4 +8,5 @@ const ashik = {
   currently: "building something cool"
 };
 ```
-![hippo](https://tenor.com/view/cat-cat-jam-nod-pet-kitty-gif-17932554)
+![me]([https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif](https://github.com/AshikCodes/AshikCodes/blob/main/russell-westbrook.gif))
+
